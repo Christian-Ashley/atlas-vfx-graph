@@ -5,6 +5,7 @@ using UnityEngine;
 public class audio : MonoBehaviour
 {
     AudioSource _audiosource;
+    public float[] _samples = new float[512];
     // Start is called before the first frame update
     void Start()
     {
@@ -18,6 +19,6 @@ public class audio : MonoBehaviour
     }
     void GetSpectrumAudioSource()
     {
-        _audiosource.GetSpectrumData()
+        _audiosource.GetSpectrumData(_samples, 0, FFTWindow.Blackman);
     }
 }
