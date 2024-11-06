@@ -76,3 +76,5 @@ crashlytics-build.properties
 /VFX/.vscode
 VFX/Temp/FSTimeGet-4a00c4300c9372746aa3df2e708c12ff
 /VFX/Temp
+/beat-detection/Library
+/beat-detection/Temp

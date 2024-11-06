@@ -195,3 +195,48 @@ Start importing Assets/fireworksv1.vfx using Guid(949d6a131c498e14990ea3292bca94
  -> (artifact id: 'a5076ca17ab8874eaf93d06d62c0f1f7') in 0.193079 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 100741.021239 seconds.
+  path: Assets/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(0af136d4f310ca94b859d2cb3abc2b02) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(0af136d4f310ca94b859d2cb3abc2b02) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b795786f5b99de240609f57dcca4563c') in 1.711663 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 87088.331254 seconds.
+  path: Assets/fireworksv1.vfx
+  artifactKey: Guid(949d6a131c498e14990ea3292bca940d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/fireworksv1.vfx using Guid(949d6a131c498e14990ea3292bca940d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7613df1506aa5ae95b8b19f93427f3eb') in 0.791213 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 22.118117 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ae5280ad91af67e2a353905758f96678') in 0.006634 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 17.069699 seconds.
+  path: Assets/fireworksv1.vfx
+  artifactKey: Guid(949d6a131c498e14990ea3292bca940d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/fireworksv1.vfx using Guid(949d6a131c498e14990ea3292bca940d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd04163c191bf02d07efed8b358e5af89') in 0.236140 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 9.900799 seconds.
+  path: Assets/fireworksv1.vfx
+  artifactKey: Guid(949d6a131c498e14990ea3292bca940d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/fireworksv1.vfx using Guid(949d6a131c498e14990ea3292bca940d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0536e87c5511995c29b94132392034ef') in 0.004585 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
