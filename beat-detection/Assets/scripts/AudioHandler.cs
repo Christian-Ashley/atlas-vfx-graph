@@ -4,9 +4,9 @@ using System;
 using System.Collections;
 
 [RequireComponent(typeof(AudioSource))]
-public class audio : MonoBehaviour
+public class AudioHandler : MonoBehaviour
 {
-  AudioSource _audioSource;
+    AudioSource _audioSource;
     public float[] _clone = new float[512];
     float[] _frequencyBand = new float[8];
     float[] _bufferBand = new float[8];
