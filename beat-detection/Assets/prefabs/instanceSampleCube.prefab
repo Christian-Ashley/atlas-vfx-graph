@@ -12,8 +12,6 @@ GameObject:
   - component: {fileID: 3184721845024782924}
   - component: {fileID: 8096391075683430149}
   - component: {fileID: 6012484138241413327}
-  - component: {fileID: 3401427448445413598}
-  - component: {fileID: -2449678912497525131}
   m_Layer: 0
   m_Name: instanceSampleCube
   m_TagString: Untagged
@@ -64,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 257
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 73c176f402d2c2f4d929aa5da7585d17, type: 2}
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -107,33 +105,3 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &3401427448445413598
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2053006790283079616}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: edacaf3fed1f0904f8e91088a6b26bba, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _sampleCubePrefab: {fileID: 2053006790283079616}
-  _maxScale: 512
---- !u!114 &-2449678912497525131
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2053006790283079616}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a23d3a26d128e60449a9f0183d80d90a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _band: 0
-  _startScale: 10
-  _scaleMultiplier: 5
-  _useBuffer: 0
