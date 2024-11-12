@@ -679,7 +679,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -899,7 +899,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _sampleCubePrefab: {fileID: 2053006790283079616, guid: 29f45a453bc171d40ba8743d678fe40f,
     type: 3}
-  _maxScale: 1000
+  _maxScale: 100000
 --- !u!4 &1307790830
 Transform:
   m_ObjectHideFlags: 0
